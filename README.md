@@ -17,8 +17,8 @@
         <img src="public/icons/other/website.svg" width="22" height="22" align="absmiddle" alt="Website Explorer Icon"/>&nbsp;<strong>finnrmn.com</strong>
         </a>
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <a href="mailto:finnrmnn@gmail.com">
-        <img src="public/icons/other/mail.svg" width="22" height="22" align="absmiddle" alt="Email Icon"/>&nbsp;<strong>finnrmnn@gmail.com</strong>
+        <a href="mailto:mail@finnrmn.com">
+        <img src="public/icons/other/mail.svg" width="22" height="22" align="absmiddle" alt="Email Icon"/>&nbsp;<strong>mail@finnrmn.com</strong>
         </a>
       </p>
     </td>
