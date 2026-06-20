@@ -1,5 +1,4 @@
 <div align="center">
-<br>
 <h1><strong>Finn Reimann</strong></h1>
 
 <h3 align="center"><strong> About Me </strong></h3>
