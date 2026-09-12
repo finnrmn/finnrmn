@@ -71,7 +71,7 @@
       <a href="https://www.credly.com/badges/89ac59e5-405e-4d07-a0ab-4a43dc95b88e/public_url">
         <img src="public/images/certificates/aws/aws-certified-ai-practitioner.png" width="300" alt="AWS Certified AI Practitioner"/>
       </a>
-      <br/><b>Google AI Professional Certificate</b><br/>
+      <br/><b>AWS Certified AI Practitioner</b><br/>
       <img src="public/icons/companys/AWS.svg" height="20" title="Google"/> 
     </td>
     <td align="center" width="33%">
