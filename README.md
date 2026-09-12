@@ -68,20 +68,18 @@
 <table border="0" cellpadding="10" cellspacing="0" style="border-collapse: collapse;">
   <tr>
     <td align="center" width="33%">
-      <a href="https://verify.skilljar.com/c/x5paonexih4h">
-        <img src="public/images/certificates/anthropic/course-certificate-anthropic-claude-code-action.png" width="300" alt="Claude Code in Action"/>
+      <a href="https://www.credly.com/badges/89ac59e5-405e-4d07-a0ab-4a43dc95b88e/public_url">
+        <img src="public/images/certificates/aws/aws-certified-ai-practitioner.png" width="300" alt="AWS Certified AI Practitioner"/>
       </a>
-      <br/><b>Claude Code in Action</b><br/>
-      <img src="public/icons/companys/Anthropic.svg" height="20" title="Anthropic"/> 
-      <img src="public/icons/tools/ClaudeCode.svg" height="20" title="Claude Code"/>
+      <br/><b>Google AI Professional Certificate</b><br/>
+      <img src="public/icons/companys/AWS.svg" height="20" title="Google"/> 
     </td>
     <td align="center" width="33%">
-      <a href="https://verify.skilljar.com/c/23znbwfqecot">
-        <img src="public/images/certificates/anthropic/course-certificate-anthropic-ai-fluency-students.png" width="300" alt="AI Fluency for students"/>
+      <a href="https://coursera.org/verify/specialization/FMHXED9YU9I4">
+        <img src="public/images/certificates/deeplearningAi/online-specialization-coursera-machine-learning.png" width="300" alt="Machine Learning Specialization"/>
       </a>
-      <br/><b>AI Fluency for students</b><br/>
-      <img src="public/icons/companys/Anthropic.svg" height="20" title="Anthropic"/> 
-      <img src="public/icons/tools/Claude.svg" height="20" title="Claude"/>
+      <br/><b>Machine Learning Specialization</b><br/>
+      <img src="public/icons/companys/DeeplearningAI.svg" height="20" title="DeepLearning.AI"/>
     </td>
     <td align="center" width="33%">
       <a href="https://www.credly.com/badges/b6671f64-88d0-46a7-9caf-1bf8661ce7a4/public_url">
@@ -113,12 +111,13 @@
       <br/><b>AWS Cloud Practitioner Essentials</b><br/>
       <img src="public/icons/companys/AWS.svg" height="20" title="AWS"/>
     </td>
-    <td align="center" width="300">
-      <a href="https://coursera.org/verify/specialization/FMHXED9YU9I4">
-        <img src="public/images/certificates/deeplearningAi/online-specialization-coursera-machine-learning.png" width="300" alt="Machine Learning Specialization"/>
+    <td align="center" width="25%">
+      <a href="https://verify.skilljar.com/c/x5paonexih4h">
+        <img src="public/images/certificates/anthropic/course-certificate-anthropic-claude-code-action.png" width="300" alt="Claude Code in Action"/>
       </a>
-      <br/><b>Machine Learning Specialization</b><br/>
-      <img src="public/icons/companys/DeeplearningAI.svg" height="20" title="DeepLearning.AI"/>
+      <br/><b>Claude Code in Action</b><br/>
+      <img src="public/icons/companys/Anthropic.svg" height="20" title="Anthropic"/> 
+      <img src="public/icons/tools/ClaudeCode.svg" height="20" title="Claude Code"/>
     </td>
   </tr>
 </table>
